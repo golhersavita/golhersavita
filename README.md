@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golhersavita&label=Profile%20views&color=0e75b6&style=flat" alt="golhersavita" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Savita Golher</h1>
-<h3 align="center"> passionate upcomming Data Scientist.</h3>
+<h3 align="center"> Data Analyst Entry level.</h3>
 
 
 ## 🙋‍♂️ About Me
