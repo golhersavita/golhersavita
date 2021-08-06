@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/savita-golher-421b68114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savita golher" height="30" width="40" /></a>
+<a href="linkedin.com/in/savita-golher-421b68114" target="blank"><img align="center" src="https://raw.githubusercontent.com/savitagolher/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savita golher" height="30" width="40" /></a>
 <a href="https://kaggle.com/savitagolher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="savitagolher" height="30" width="40" /></a>
 <a href="https://fb.com/savita hatwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="savita hatwar" height="30" width="40" /></a>
 <a href="https://instagram.com/savitahatwaar_303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savitahatwaar_303" height="30" width="40" /></a>
