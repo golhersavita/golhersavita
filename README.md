@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golhersavita&label=Profile%20views&color=0e75b6&style=flat" alt="golhersavita" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Savita Golher</h1>
-<h3 align="center"> Data Analyst Entry level.</h3>
+<h3 align="center"> Data Analyst</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -31,7 +31,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/savitagolher" target="blank"><img align="center" src="https://raw.githubusercontent.com/savitagolher/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savita golher" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/savitagolher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savita golher" height="30" width="40" /></a>
 <a href="https://kaggle.com/savitagolher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="savitagolher" height="30" width="40" /></a>
 <a href="https://fb.com/savita hatwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="savita hatwar" height="30" width="40" /></a>
 <a href="https://instagram.com/savitahatwaar_303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savitahatwaar_303" height="30" width="40" /></a>
